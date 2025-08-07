@@ -68,13 +68,13 @@ git pull origin main
 
 LEIA: [README - BACKEND](./backend/README.md)
 
-### 2️⃣ Frontend (submódulo)
+### Frontend (submódulo)
 
 LEIA: [README - FRONTEND](./frontend/README.md)
 
 ---
 
-## ⚠️ Permissões no submódulo
+## Permissões no submódulo
 
 - O **frontend** é um repositório separado.
 - Para alterar e enviar mudanças diretamente, você precisa ter **permissão de escrita** nele.
@@ -83,8 +83,3 @@ LEIA: [README - FRONTEND](./frontend/README.md)
   1. Crie um **fork** do frontend no GitHub.
   2. Faça as alterações no seu fork.
   3. Abra um **Pull Request** para o repositório original.
-
-```
-
----
-```
