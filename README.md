@@ -19,6 +19,12 @@ Este repositório contém a aplicação **fullstack**, que integra:
 
 ---
 
+## Contribuindo
+
+Reserve um momento para ler sobre nossas [Diretrizes de Contribuição](./CONTRIBUTING.md) para que você possa entender como enviar um problema, fazer commit e criar pull requests.
+
+---
+
 ## Estrutura do projeto
 
 ```
