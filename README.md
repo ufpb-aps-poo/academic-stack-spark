@@ -12,8 +12,6 @@ Este é um projeto de referência para os alunos das disciplinas de Análise e P
 
 🚨 Atenção: Este projeto foi desenvolvido para servir como base para a implementação do projeto da disciplina. Ele é incompleto e possui vários pontos de melhoria propositais, que serão discutidos em sala de aula. Deste modo, não considere cegamente este projeto como uma referência para boas práticas de programação e um bom design. Repito, eu coloquei propositalmente alguns problemas de design que serão discutidos em sala de aula.
 
-Trata-se de um projeto de controle de Projetos, onde, por enquanto é possível cadastrar projetos e participantes.
-
 Este repositório contém a aplicação **fullstack**, que integra:
 
 - **Frontend** → [frontend](./frontend) _(submódulo Git — repositório separado)_
