@@ -1,9 +1,9 @@
 import requests
 
 # ===== CONFIGURAÇÕES =====
-GITHUB_TOKEN = "SEU_TOKEN_AQUI"  # Token com permissão 'repo'
-OWNER_ORIGEM = "usuario_origem"
-REPO_ORIGEM = "repo_origem"
+GITHUB_TOKEN = "GITHUB_TOKEN" #"SEU_TOKEN_AQUI"  # Token com permissão 'repo'
+OWNER_ORIGEM = "ufpb-aps-poo"# "usuario_origem"
+REPO_ORIGEM = "ufpb-ccae-dcx-aps-8103180-t01-projeto-aps-academic-stack-spark"# "repo_origem"
 
 DESTINOS = [
     ("ufpb-aps-poo", "projeto-aps-codeon"),
